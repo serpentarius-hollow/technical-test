@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736335091425",
+    "project_id": "wings-technical-test",
+    "storage_bucket": "wings-technical-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736335091425:android:fbe5730450a98016f1c9a0",
+        "android_client_info": {
+          "package_name": "com.example.wings_technical_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4zZ8FZeBlJmZlNyWcQGau_PrdfdqY2Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
